@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tadej I enjoy creating software.
+I am Tadej. I enjoy creating software.
  
 <!--
 **tfius/tfius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
