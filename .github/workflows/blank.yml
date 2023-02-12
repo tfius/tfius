@@ -1,0 +1,367 @@
+Metrics Embed v3.32.0
+Signed in as tfius
+Metrics preview
+Action code
+Markdown code
+Your GitHub username
+Generate your metrics!
+Remaining GitHub requests for tfius:
+4997 REST / 5000 GraphQL / 30 search
+The following plugins options are not available on this web instance: poopmap, skyline, stargazers
+
+🖼️ Template
+Classic template
+Terminal template
+Github
+
+📅 Isometric commit calendar
+Time range
+
+half-year
+
+🈷️ Languages activity
+Ignored languages
+html, css, ...
+Skipped repositories
+my-repo-1, my-repo-2, owner/repo-3, ...
+Display limit
+8
+Display threshold (percentage)
+0%
+Group unknown, ignored and over-limit languages into "Other" category
+
+Custom languages colors
+github
+Custom languages names
+javascript:JS, typescript:TS
+Displayed sections
+most-used
+Additional details
+bytes-size, percentage
+Indepth mode
+
+Indepth mode - Custom repositories
+lowlighter/metrics, lowlighter/metrics@main, lowlighter/metrics@latest:v1.0..v1.1
+Indepth mode - Analysis timeout
+15
+Indepth mode - Analysis timeout (repositories)
+7.5
+Indepth mode - Displayed categories (most-used section)
+markup, programming
+Indepth mode - Displayed categories (recently-used section)
+markup, programming
+Indepth mode - Events to load (recently-used section)
+300
+Indepth mode - Events maximum age (day, recently-used section)
+14
+
+✨ Stargazers
+Charts
+
+Charts display type
+
+chartist
+Stargazers worldmap
+
+Stargazers worldmap sample
+0
+
+👨‍💻 Lines of code changed
+Skipped repositories
+my-repo-1, my-repo-2, owner/repo-3, ...
+Displayed sections
+base
+Display limit
+4
+Years to display
+1
+
+📌 Starred topics
+
+🌟 Recently starred repositories
+Display limit
+4
+
+💡 Coding habits and activity
+
+🎟️ Follow-up of issues and pull requests
+
+🎭 Comment reactions
+
+🧑‍🤝‍🧑 People
+
+💝 GitHub Sponsorships
+
+💕 GitHub Sponsors
+
+📓 Featured repositories
+
+💬 Discussions
+
+💫 Star lists
+
+📆 Commit calendar
+
+🏆 Achievements
+Rank threshold filter
+
+C
+Secrets achievements
+
+Display style
+
+detailed
+Display limit
+0
+Ignored achievements
+octonaut, automator, explorer
+Showcased achievements
+octonaut, automator, explorer
+
+🎩 Notable contributions
+Query filter
+stars:>500 forks:>100 maintainer:true commits.user%:>5
+Skipped repositories
+my-repo-1, my-repo-2, owner/repo-3, ...
+Repository owner account type filter
+
+organization
+Repository name
+
+Indepth mode
+
+Contribution types filter
+commit
+Include own repositories
+
+
+📰 Recent activity
+Display limit
+5
+Events to load
+300
+Events maximum age
+14
+Events visibility
+
+all
+Events timestamps
+
+Skipped repositories
+my-repo-1, my-repo-2, owner/repo-3, ...
+Ignored users
+user1, user2, ...
+Events types
+all
+
+🧮 Repositories traffic
+
+♐ Random code snippet
+
+🎫 Gists
+
+🗂️ GitHub projects
+Display limit
+4
+Featured repositories projects
+username/repo/projects/1, username/repo/projects/2, ...
+Projects descriptions
+
+
+🙋 Introduction
+
+🌇 GitHub Skyline
+Displayed year
+Frames count
+60
+Image quality
+0.5
+Compatibility mode
+
+Advanced settings
+{  "url": "https://skyline.github.com/${login}/${year}",  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",  "wait": 1,  "hide": "button, footer, a"}
+
+💭 GitHub Community Support
+Social
+
+⏱️ Google PageSpeed
+
+🐤 Latest tweets
+
+🗨️ Stack Overflow
+
+🌸 Anilist watch list and reading list
+
+🎼 Music activity and suggestions
+
+✒️ Recent posts
+
+🗼 Rss feed
+
+⏰ WakaTime
+
+🗳️ Leetcode
+Community
+
+♟️ Chess
+
+🥠 Fortune
+
+💉 Nightscout
+
+💩 PoopMap plugin
+Time range
+7
+
+📸 Website screenshot
+
+🦑 Splatoon
+
+💹 Stock prices
+Core
+
+🗃️ Base content
+Header
+
+Account activity
+
+Community stats
+
+Repositories metrics
+
+Metadata
+
+Indepth mode
+
+Show `Available for hire!` in header section
+
+Skip base content
+
+Fetched repositories per query
+100
+Include forks
+
+Repositories affiliations
+owner
+Default skipped repositories
+my-repo-1, my-repo-2, owner/repo-3, ...
+Default ignored users
+github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, action@github.com
+Identifiers that has been used for authoring commits
+.user.login
+
+⚙️ Rendering options
+Timezone for dates
+Europe/Ljubljana
+Plugin order
+base.header, base.repositories
+Use twemojis
+
+Use GitHub custom emojis
+
+Use GitHub octicons
+
+Display width (for image output formats)
+
+regular
+Use CSS animations
+
+Base64-encoded images
+
+Output padding
+0, 8 + 11%
+Configuration presets
+@lunar-red
+/
+README
+.md
+Setup using GitHub Action on a profile repository
+Send feedback
+Copy Action Code
+Create a new workflow with the following content
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Ljubljana
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_poopmap: yes
+          plugin_poopmap_days: 7
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_settings: {
+  "url": "https://skyline.github.com/${login}/${year}",
+  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+  "wait": 1,
+  "hide": "button, footer, a"
+}
+
+          plugin_skyline_year: current-year
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: chartist
+          plugin_stars: yes
+          plugin_stars_limit: 4
+Repository
+License
+GitHub Action
+Hosted with ❤️ by @lowlighter
