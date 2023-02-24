@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            419 Commits
+                            377 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shankarpandala/lazypredict</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning</div>
@@ -1501,7 +1501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robcarver17/systematictradingexamples</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of code related to book www.systematictrading.org and blog qoppac.blogspot.com</div>
@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LastAncientOne/Deep_Learning_Machine_Learning_Stock</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deep Learning and Machine Learning stocks represent a promising long-term or short-term opportunity for investors and traders.</div>
@@ -1607,7 +1607,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dedwards25/Python_Option_Pricing</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An libary to price financial options written in Python. Includes: Black Scholes, Black 76, Implied Volatility, American, European, Asian, Spread Options</div>
@@ -1728,7 +1728,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2023, 13:08:56 (timezone Europe/Ljubljana) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 14:11:05 (timezone Europe/Ljubljana) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
