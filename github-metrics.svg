@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>probcomp/GenSMCP3.jl</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated SMC with Probabilistic Program Proposals, for the Gen PPL.</div>
@@ -1499,7 +1499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SevaSk/ecoute</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.</div>
@@ -1715,7 +1715,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 May 2023, 02:25:16 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 May 2023, 03:34:56 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
