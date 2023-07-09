@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nevermined-io/contracts</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📝 Smart Contracts implementation of Nevermined in Solidity</div>
@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA-Genomics-Research/rapids-single-cell-examples</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of single-cell genomic analysis accelerated with RAPIDS</div>
@@ -1611,7 +1611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nmslib/hnswlib</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Header-only C++/python library for fast approximate nearest neighbors</div>
@@ -1645,7 +1645,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        285
+                                        286
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1733,7 +1733,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2023, 16:06:39 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jul 2023, 17:06:35 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
