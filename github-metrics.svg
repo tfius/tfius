@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrefectHQ/marvin</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust</div>
@@ -1512,7 +1512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jxnl/openai_function_call</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helper functions to create openai function calls w/ pydantic</div>
@@ -1740,7 +1740,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2023, 13:06:26 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jul 2023, 14:09:20 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
