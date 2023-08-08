@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xorbitsai/inference</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.</div>
@@ -1751,7 +1751,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2023, 21:06:24 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Aug 2023, 22:06:44 (timezone Europe/Ljubljana) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
