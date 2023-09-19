@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waseemhnyc/instagraph-nextjs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate knowledge graphs. Inspired by instagraph.ai</div>
@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intel/neural-compressor</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Intel® Neural Compressor provides unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as TensorFlow, PyTorch, and ONNX Runtime.</div>
@@ -1570,7 +1570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinokiocomputer/pinokio</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI Browser</div>
@@ -1745,7 +1745,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Sept 2023, 21:06:20 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2023, 22:06:40 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
