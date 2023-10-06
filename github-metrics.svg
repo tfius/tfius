@@ -1442,7 +1442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitmylo/audio-webui</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A webui for different audio related Neural Networks</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitmylo/bark-voice-cloning-HuBERT-quantizer</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The code for the bark-voicecloning model. Training and inference.</div>
@@ -1548,7 +1548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wladradchenko/wunjo.wladradchenko.ru</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explore Wunjo AI: A holistic fusion of voice synthesis and voice cloning on English, Russian and Chinese, real-time speech recognition, and captivating deepfake face, lips animation, face swap by one photo and deepfake emotion. Additionally, Retouch AI to remove objects from videos and improve deepfakes. Open-source, local, and free!</div>
@@ -1723,7 +1723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Oct 2023, 17:06:46 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2023, 18:07:01 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
