@@ -1447,7 +1447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bluefishjs/bluefish</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A SolidJS diagramming framework</div>
@@ -1500,7 +1500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blizaine/Real-Time-Latent-Consistency-Model</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demo showcasing ~real-time Latent Consistency Model pipeline with Diffusers and a MJPEG stream server</div>
@@ -1723,7 +1723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2023, 11:06:35 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 12:06:19 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
