@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/scripts-to-rule-them-all</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.</div>
@@ -1524,7 +1524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/audio2photoreal</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code and dataset for photorealistic Codec Avatars driven from audio</div>
@@ -1740,7 +1740,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2024, 22:06:31 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2024, 23:06:37 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
