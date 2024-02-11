@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kzu/StreamAI</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sample of how to implement streaming responses from OpenAI using SignalR</div>
@@ -1518,7 +1518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rawalkhirodkar/egohumans</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[ICCV, 2023] Multiple humans in 3D captured by dynamic and static cameras in 4K.</div>
@@ -1571,7 +1571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apdavison/fairgraph</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental high-level Python API for the HBP Knowledge Graph</div>
@@ -1624,7 +1624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cubiq/ComfyUI_InstantID</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1659,7 +1659,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        5
+                                        6
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1747,7 +1747,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2024, 15:06:44 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2024, 16:06:37 (timezone Europe/Ljubljana) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
